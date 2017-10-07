@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'SalaryManRegular';
+  src: url('SalaryManRegular.eot');
+  src: url('SalaryManRegular.woff2') format('woff2'),
+       url('SalaryManRegular.woff') format('woff'),
+       url('SalaryManRegular.ttf') format('truetype'),
+       url('SalaryManRegular.svg#SalaryManRegular') format('svg'),
+       url('SalaryManRegular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
